@@ -176,7 +176,3 @@ See the `outputs/graphs/` folder for all generated charts, and `outputs/screensh
 Full technical documentation, methodology, and explanation of each step is available in [`docs/documentation.md`](docs/documentation.md).
 
 ---
-
-## 👤 Author
-
-*(Your Full Name)* — Internship Submission Project
