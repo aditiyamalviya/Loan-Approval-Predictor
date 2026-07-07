@@ -8,9 +8,9 @@ A Machine Learning project that predicts whether a bank loan application will be
 
 | Field | Detail |
 |---|---|
-| **Intern ID** | *(CITS6393)* |
-| **Full Name** | *(Aditiya Malviya)* |
-| **No. of Weeks** | *(4 Weeks)* |
+| **Intern ID** | *CITS6393* |
+| **Full Name** | *Aditiya Malviya* |
+| **No. of Weeks** | *4 Weeks* |
 | **Project Name** | Loan Approval Predictor |
 | **Project Scope** | To build a complete Data Science pipeline that cleans loan applicant data, visualizes key trends, trains a Machine Learning classification model to predict loan approval, and presents results through an interactive dashboard. |
 
